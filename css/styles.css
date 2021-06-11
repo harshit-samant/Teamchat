@@ -1,0 +1,133 @@
+.colored-section {
+  background-color: #5149AE;
+  padding: 5vh 10vw 5vh;
+  color: #fff;
+}
+
+.logo {
+  font-weight: 500;
+}
+
+body {
+  font-family: "Roboto",sans-serif;
+}
+
+/* Title */
+
+body .heading {
+  font-family: "Poppins",sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  font-size: 5vw;
+}
+
+.title-img {
+  max-width:80%;
+}
+
+/* Paragraph */
+
+.top-para {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+/* Button */
+
+.button {
+  font-weight: 500;
+  margin-right: 20px;
+  border-radius: 55px;
+  border: none;
+}
+.btn-big {
+  min-height: 50px;
+  min-width: 150px;
+}
+
+.btn-nav {
+
+  background-color: #8985C8;
+  color: #fff;
+  font-weight: 400;
+  height: 38px;
+  width: 180px;
+  margin-right: 0  ;
+}
+
+.btn-white {
+  background-color: #fff;
+  color: #5149AE;
+  border: none;
+}
+
+.btn-colored {
+  background-color: #5149AE;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.btn-features {
+  background-color: #E8F1FF;
+  color: #1E71FF;
+  width: 120px;
+  height: 30px;
+}
+
+/* Features Section */
+
+.features {
+  padding: 5vh 10vw 0;
+
+}
+.heading-2 {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 45px;
+  font-family: "Poppins",sans-serif;
+}
+
+.f-para {
+  font-size: 15px;
+  line-height: 25px;
+  margin: 2vh 12.5vw 3vh;
+  text-align: center;
+}
+
+.img-2 {
+  max-width: 80%;
+  margin: 0 8vw;
+}
+
+/* call to action */
+
+.cta {
+  background-color: #DCDAF9;
+  padding: 3vh 10vw 0;
+  color: #444C56;
+}
+
+.img-3 {
+  width: 70%;
+  margin-left: 3vw;
+}
+
+.cta-heading {
+  font-size: 4.5vw;
+  font-weight: 400;
+  line-height: 1.3;
+
+}
+
+.cta-para {
+  font-size: 20px;
+}
+
+.btn-cta1 {
+  border: none;
+  background-color: #5149AE;
+  color: #fff;
+}
